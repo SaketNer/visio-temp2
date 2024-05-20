@@ -1,0 +1,22 @@
+dependencies:
+  espressif/esp-nn:
+    component_hash: fd5ef8d6a858b816893ffb8de55bb86e9873e3c1464d1517109a9d9d108cb1df
+    source:
+      git: https://github.com/espressif/esp-nn.git
+      path: .
+      type: git
+    version: 34e97138de6e80ab6e047262c1c8b77514739a39
+  espressif/esp-tflite-micro:
+    component_hash: null
+    source:
+      path: D:\Saket\esp-tflite-micro
+      type: local
+    version: '*'
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.4
+manifest_hash: b1121bf3028184b1d7ebb28fdecb279256fcd5e03732a82fa17fff7b9cdd9ba1
+target: esp32
+version: 1.0.0

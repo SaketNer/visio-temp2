@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Saket/esp-tflite-micro/examples/hello_world/build/CMakeFiles/bootloader
+D:/Saket/esp-tflite-micro/examples/hello_world/build/CMakeFiles/bootloader.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/CMakeFiles/bootloader-complete.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Saket/esp-tflite-micro/examples/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

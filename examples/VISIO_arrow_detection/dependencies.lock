@@ -1,0 +1,28 @@
+dependencies:
+  espressif/esp-nn:
+    component_hash: fd5ef8d6a858b816893ffb8de55bb86e9873e3c1464d1517109a9d9d108cb1df
+    source:
+      git: https://github.com/espressif/esp-nn.git
+      path: .
+      type: git
+    version: 34e97138de6e80ab6e047262c1c8b77514739a39
+  espressif/esp-tflite-micro:
+    component_hash: null
+    source:
+      path: D:\Saket\esp-tflite-micro
+      type: local
+    version: '*'
+  espressif__esp32-camera:
+    component_hash: null
+    source:
+      path: D:\Saket\esp-tflite-micro\examples\VISIO_arrow_detection\components\espressif__esp32-camera
+      type: local
+    version: 2.0.7
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.4
+manifest_hash: 5aabba7aa16c95f5b9036586834cd56062bc88bf51cb5ad8a61a0da5f96acde7
+target: esp32s3
+version: 1.0.0

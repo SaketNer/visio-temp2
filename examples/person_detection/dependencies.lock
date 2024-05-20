@@ -1,0 +1,27 @@
+dependencies:
+  espressif/esp-nn:
+    component_hash: fd5ef8d6a858b816893ffb8de55bb86e9873e3c1464d1517109a9d9d108cb1df
+    source:
+      git: https://github.com/espressif/esp-nn.git
+      path: .
+      type: git
+    version: 34e97138de6e80ab6e047262c1c8b77514739a39
+  espressif/esp-tflite-micro:
+    component_hash: null
+    source:
+      path: D:\Saket\esp-tflite-micro
+      type: local
+    version: '*'
+  espressif/esp32-camera:
+    component_hash: e00e75c24164b5d097bf98f325938558697916a0cb6b68872b9927587b46882a
+    source:
+      type: service
+    version: 2.0.8
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.4
+manifest_hash: b22770f58f1354139e9bada4c2b2e532908ee81eb120092a1873528c99e41280
+target: esp32
+version: 1.0.0

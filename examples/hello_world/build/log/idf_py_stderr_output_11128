@@ -1,0 +1,14 @@
+CMake Error at C:/Espressif/frameworks/esp-idf-v5.1.4/tools/cmake/build.cmake:540 (message):
+  ERROR: Because no versions of espressif/esp-tflite-micro match >*
+
+   and espressif/esp-tflite-micro (*) depends on espressif/esp-nn (^1.0.0-rc1), espressif/esp-tflite-micro (>=*) requires espressif/esp-nn (^1.0.0-rc1).
+
+  So, because no versions of espressif/esp-nn match ^1.0.0-rc1
+
+   and project depends on espressif/esp-tflite-micro (*), version solving failed.
+
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.1.4/tools/cmake/project.cmake:604 (idf_build_process)
+  CMakeLists.txt:3 (project)
+
+
